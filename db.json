@@ -1,0 +1,20 @@
+
+
+  {
+    "posts": [
+      {
+        "id": 1,
+        "username": "Byron Flatiron",
+        "content": "Practice your JavaScript",
+        "likes": 0
+      },
+      {
+        "id": 2,
+        "username": "Rashaun Flatiron",
+        "content": "Practice your Ruby",
+        "likes": 0
+      }
+    ],
+    "users": [],
+    "likes": []
+  }
